@@ -1,0 +1,34 @@
+compote
+mixture
+batter
+round
+compote
+cupcake
+muffin
+pastry
+filling
+curl
+sauce
+glaze
+icing
+frosting
+dessert
+praline
+cream
+topping
+dry ingredient
+wet ingredient
+cake
+round
+ball
+square
+rectangle
+meringue
+mousse
+curd
+bun
+strip
+braid
+layer
+macaroon
+
